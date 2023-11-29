@@ -21,10 +21,13 @@ Systems Information Engineering Student from Buenos Aires, Argentina
 EMAIL = "espositolucas2002@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/lucas-esposito-tejerina/",
-    "GitHub": "https://github.com/EspositoLucas"
+    "GitHub": "https://github.com/EspositoLucas",
+    "Portfolio": "https://espositolucas.github.io/EspositoLucasDataWeb.github.io/"
 }
 PROJECTS = {
-    "🏆 DATA ANALYST PORTFOLIO BLOG - Personal Website about Data Analytics ": "https://espositolucas.github.io/DataWeb.github.io/"
+    "💼 FIFA WORLD CUP QATAR : Analysis of the main important Data of the Fifa World Cup Qatar 2022 using Excel and Power BI": "https://www.novypro.com/project/lucas-esposito",
+    "💼 ETL PROCESS EXAMPLE SPOTIFY API : Data feed (data pipeline) using Spotify API with Python. This feed will run daily, and it will download the data about the songs that were listened to during a day, and save that data in a SQLite database on a user local machine": "https://github.com/EspositoLucas/ETL-example-using-Python",
+    "💼 NETFLIX MOVIES & TV SHOWS DATASET :  Dashboard made in Tableau where is analyzed data about amount of titles by country, total of movies and tv shows by year, ratings of each movie/tv show with it's description and title and also a top 10 genre by counts of movies from the streaming media Netflix": "https://public.tableau.com/app/profile/lucas.esposito3223/viz/Netflix_Visualization/Netflix"
 }
 
 
@@ -155,8 +158,8 @@ st.subheader("Certifications")
 st.write("---")
 st.write(
     """
-- 📄 PROGRAMA DEL DIPLOMA –  Bachillerato Internacional        2019
-- 📄 FIRST CERTIFICATE IN ENGLISH EXAM – University of Cambridge     2019
-- 📄 GRADED EXAMINATION IN SPOKEN ENLGISH  – Trinity College London     2018
+    - 📄 FIRST CERTIFICATE IN ENGLISH EXAM – University of Cambridge     2019
+    - 📄 GRADED EXAMINATION IN SPOKEN ENLGISH  – Trinity College London     2018
+    - 📄 PROGRAMA DEL DIPLOMA –  Bachillerato Internacional        2019
 """
 )
