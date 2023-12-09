@@ -14,7 +14,7 @@ profile_pic = current_dir / "assets" / "Foto_Rostro_Esposito.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Lucas Esposito Tejerina Resume"
 PAGE_ICON = "🧑‍💻"
-NAME = "Lucas Esposito Tejerina"
+NAME = "Lucas Espósito Tejerina"
 DESCRIPTION = """
 Systems Information Engineering Student from Buenos Aires, Argentina
 """
@@ -27,7 +27,8 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "💼 FIFA WORLD CUP QATAR : Analysis of the main important Data of the Fifa World Cup Qatar 2022 using Excel and Power BI": "https://www.novypro.com/project/lucas-esposito",
     "💼 ETL PROCESS EXAMPLE SPOTIFY API : Data feed (data pipeline) using Spotify API with Python. This feed will run daily, and it will download the data about the songs that were listened to during a day, and save that data in a SQLite database on a user local machine": "https://github.com/EspositoLucas/ETL-example-using-Python",
-    "💼 NETFLIX MOVIES & TV SHOWS DATASET :  Dashboard made in Tableau where is analyzed data about amount of titles by country, total of movies and tv shows by year, ratings of each movie/tv show with it's description and title and also a top 10 genre by counts of movies from the streaming media Netflix": "https://public.tableau.com/app/profile/lucas.esposito3223/viz/Netflix_Visualization/Netflix"
+    "💼 NETFLIX MOVIES & TV SHOWS DATASET :  Dashboard made in Tableau where is analyzed data about amount of titles by country, total of movies and tv shows by year, ratings of each movie/tv show with it's description and title and also a top 10 genre by counts of movies from the streaming media Netflix": "https://public.tableau.com/app/profile/lucas.esposito3223/viz/Netflix_Visualization/Netflix",
+    "💼 GESTIÓN BAZAAR : University Practical Work of the subject Data Management where we try to simulate the implementation of a new system for the management of a business that sells bazaar/gift items both in a physical store and through an online platform.The project was made making use of database techniques using SQL/TSQL language through the MS SQL Server 2012 database engine":"https://github.com/EspositoLucas/TP-GDD-2C-2022/tree/main"
 }
 
 
@@ -87,7 +88,7 @@ st.write(
     """
 - 👨‍💻 Programming: Python (Pandas, NumPy, SciPy, MatPlotLib)
 - 📊 Data Visulization: PowerBi, MS Excel (VLOOKUP, Conditional Formatting, Pivot Tables), Tableau
-- 🗄️ Databases: MS SQL Server
+- 🗄️ Databases: MS SQL Server, MySQL
 """
 )
 
@@ -147,7 +148,7 @@ st.subheader("Education")
 st.write("---")
 st.write(
     """
-- 🎓 SYSTEMS INFORMATION ENGINEERING (4º YEAR) –  Universidad Tecnológica Nacional (UTN)       2020 - 2023
+- 🎓 SYSTEMS INFORMATION ENGINEERING (5º YEAR) –  Universidad Tecnológica Nacional (UTN)       2020 - 2024
 - 🏫 BACHELOR OF SOCIAL SCIENCE AND HUMANITIES –  Colegio La Salle Centro  December 2019
 """
 )
