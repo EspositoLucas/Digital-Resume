@@ -22,7 +22,7 @@ EMAIL = "espositolucas2002@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/lucas-esposito-tejerina/",
     "GitHub": "https://github.com/EspositoLucas",
-    "Portfolio": "https://espositolucas.github.io/EspositoLucasDataWeb.github.io/"
+    "Portfolio": "https://espositolucas.github.io/DataWeb.github.io/"
 }
 PROJECTS = {
     "💼 FIFA WORLD CUP QATAR : Analysis of the main important Data of the Fifa World Cup Qatar 2022 using Excel and Power BI": "https://www.novypro.com/project/lucas-esposito",
